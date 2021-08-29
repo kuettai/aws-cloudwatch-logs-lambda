@@ -17,6 +17,8 @@ environment: python3.8
 
 Code sample: lambda/processFailSMS.py
 
+To test the lambda code, get the sample test event in sample/lambdaTestEvent.json
+
 ## Create Subscription
 Go to LogGroup Stream add the following to filter metric
 ```
