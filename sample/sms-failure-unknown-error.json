@@ -1,0 +1,4 @@
+[{
+	"timestamp": 1630222571000,
+	"message": "{\"notification\": {\"messageId\": \"3e88019e-6969-5a09-975a-583b5d37d2f6\", \"timestamp\": \"2021-08-29 07:07:10.532\"}, \"delivery\": { \"mnc\": 12, \"numberOfMessageParts\": 11, \"destination\": \"+60168089925\", \"priceInUSD\": 0.61765, \"smsType\": \"Promotional\", \"mcc\": 502, \"providerResponse\": \"Unknown error attempting to reach phone\", \"dwellTimeMs\": 1702, \"dwellTimeMsUntilDeviceAck\": 4944 }, \"status\": \"FAILURE\" }"
+}]

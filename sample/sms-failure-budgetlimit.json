@@ -1,0 +1,4 @@
+[{
+	"timestamp": 1630222571000,
+	"message": "{\"notification\": {\"messageId\": \"c5278559-ab44-5853-9f64-dcfc9db6fcee\",\"timestamp\": \"2021-08-29 07:18:10.69\"}, \"delivery\": { \"destination\": \"+60168089925\", \"smsType\": \"Promotional\", \"providerResponse\": \"No quota left for account\", \"dwellTimeMs\": 111 }, \"status\": \"FAILURE\"}"
+}]
