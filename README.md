@@ -14,6 +14,7 @@ You might need to provide --sequence-token to the cli above if you want to publi
 
 ## Create Lambda Functions
 environment: python3.8
+
 Code sample: lambda/processFailSMS.py
 
 ## Create Subscription
